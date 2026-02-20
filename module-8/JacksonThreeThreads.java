@@ -1,5 +1,11 @@
 import java.util.Random;
 import javax.swing.*;
+// Jackson Webster
+// 2/11/2026
+// CSD-420
+// This program uses three separate threads to generate and display random letters, numbers, and symbols in a text area. 
+// Each thread outputs at least 10,000 characters, demonstrating how multiple threads can run at the same time to perform different tasks.
+
 
 public class JacksonThreeThreads {
 
